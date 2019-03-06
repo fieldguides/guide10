@@ -1,0 +1,21 @@
+{
+  "short_name": "Guide 10",
+  "name": "?",
+  "icons": [
+    {
+      "src": "https://fieldguides.github.io/guide10/icons/app-icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://fieldguides.github.io/guide10/icons/app-icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://fieldguides.github.io/guide10/en/index.html",
+  "background_color": "#81C784",
+  "display": "standalone",
+  "theme_color": "#81C784",
+  "publication": "manifest.json"
+}
