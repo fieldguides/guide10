@@ -1,0 +1,6 @@
+/*** Place your styles below ***/
+
+h2, h3 {
+    background: rgb(242, 194, 70);
+    background: linear-gradient(90deg, rgba(242, 194, 70, 1) 0%, rgba(242, 194, 70, 0) 100%);
+}
